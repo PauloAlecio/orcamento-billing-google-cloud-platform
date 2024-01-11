@@ -16,7 +16,7 @@ Criar alertas e um controle de orçamentos no painél de faturamente da GCP e um
 
 
 ## Resumo
-![Passo 4](https://github.com/PauloAlecio/orcamento-billing-google-cloud-platform/blob/main/assets/Passo-4.png)
+![Passo 4](https://github.com/PauloAlecio/orcamento-billing-google-cloud-platform/blob/main/assets/Resumo.png)
 
 
 
