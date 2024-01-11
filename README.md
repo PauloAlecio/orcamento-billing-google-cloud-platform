@@ -1,6 +1,23 @@
 # Desafio:
 Criar alertas e um controle de orçamentos no painél de faturamente da GCP e um readme com prints dos principais pontos levados em consideração.
 
+# Criação de Orçamento GCP
+
+## Escopo
+![Passo 1](https://github.com/PauloAlecio/orcamento-billing-google-cloud-platform/blob/main/assets/Passo-1.png)
+
+
+## Valor
+![Passo 2](https://github.com/PauloAlecio/orcamento-billing-google-cloud-platform/blob/main/assets/Passo-2.png)
+
+
+## Ações
+![Passo 3](https://github.com/PauloAlecio/orcamento-billing-google-cloud-platform/blob/main/assets/Passo-3.png)
+
+
+## Resumo
+![Passo 4](https://github.com/PauloAlecio/orcamento-billing-google-cloud-platform/blob/main/assets/Passo-4.png)
+
 
 
 ## Conecte-se comigo
